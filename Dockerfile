@@ -1,5 +1,5 @@
 FROM petrem/manpages:latest
-MAINTAINER xvezda <xvezda@naver.com>
+MAINTAINER Xvezda <xvezda@naver.com>
 
 RUN apt-get -yq install strace ltrace
 
